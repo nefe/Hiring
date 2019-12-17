@@ -28,7 +28,7 @@
 
 如果你的代码中添加过这些依赖，背后就有我们团队同学的默默付出。
 
-![opensource](https://img.alicdn.com/tfs/TB1tspIvTmWBKNjSZFBXXXxUFXa-1552-458.jpg)
+![opensource](https://img.alicdn.com/tfs/TB1bDivqebviK0jSZFNXXaApXXa-1056-658.png)
 
 在业务开发的同时，团队内部每月都有定期的技术分享。
 
