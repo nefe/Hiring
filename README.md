@@ -28,9 +28,14 @@
 
 如果你的代码中添加过这些依赖，背后就有我们团队同学的默默付出。
 
-![opensource](https://img.alicdn.com/tfs/TB1bDivqebviK0jSZFNXXaApXXa-1056-658.png)
+![opensource](https://img.alicdn.com/tfs/TB1Ll8mrhv1gK0jSZFFXXb0sXXa-1670-764.png)
 
-在业务开发的同时，团队内部每月都有定期的技术分享。
+
+同时我们也是社区文章的积极贡献者，在知乎运营多个人气专栏，文章几乎都是来自团队同学工作技术总结。
+
+![pure render](https://img.alicdn.com/tfs/TB1lJllrkY2gK0jSZFgXXc5OFXa-1396-354.png)
+
+![前端精读评论](https://img.alicdn.com/tfs/TB1V.NmreL2gK0jSZFmXXc7iXXa-1464-304.png)
 
 
 ## 关于你
